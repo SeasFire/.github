@@ -4,5 +4,5 @@ The SeasFire project, funded by the ESA, is taking an innovative approach to pre
 
 
 <p align="center">
-    <img src="/rotate_spheres_variables.mp4" alt="rotate" width="100%">
+    <img src="./rotate_spheres_variables.mp4" alt="rotate" width="100%">
 </p>
