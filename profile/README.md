@@ -5,9 +5,6 @@ The ESA-funded [SeasFire project](https://seasfire.hua.gr) is exploring the pote
 * the availability of a huge amount of satellite data with a good spatio-temporal resolution, which will be used as fire drivers called the Earth system variables, and 
 * the progress in Deep Learning (DL) and especially in graph and image based modelling frameworks, finding methods capable of capturing the spatio-temporal interactions of the Earth System variables. 
 
-![](/static/esa-logo.jpg)
-
-
 ![](/static/SeasFire_summary_slide_v1.0.png)
 Summarizing slide of the SeasFire project
 
@@ -56,4 +53,4 @@ Models and code will be made public as soon as our studies are further evaluated
 
 A [first-of-its-kind prototype system](http://vmi903477.contaboserver.net/seasfire/ui) based on Deep Learning, has been deployed to predict sub-seasonal burned areas for Europe, using different environmental variables.
 
-![](/static/seafire_logo.png)
+![](/static/seasfire_logo.png)
