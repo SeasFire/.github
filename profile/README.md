@@ -20,15 +20,15 @@ Visualization of variables from the SeasFire Cube.
 
 ### Tutorials (Python and Julia)
 
-NOTE: Instructions to access the dataset from Google Colab
+**NOTE: Instructions to access the dataset from Google Colab**
 
 > [Drive link to the seasfire dataset (0.25 deg)](https://drive.google.com/drive/folders/1IhpWRJXGOMJbtUctfnImuj7kCixpYBfC?usp=share_link)
 >
 > [Drive Link to the seasfire dataset (1 deg)](https://drive.google.com/drive/folders/1-yqhxp98YrCeg78vEeSM58r3EXO5BWwf?usp=share_link)
 >
->After accessing the dataset link, you can add a shortcut to your personal google drive.
+> After accessing the dataset link, you can add a shortcut to your personal google drive.
 >
-> Then you can open it in colab, like in [this notebook](https://colab.research.google.com/drive/1jK2vtKAnu4vurEaP7qeYhjroN2ccUV8b?usp=sharing)
+> Then you can open it in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jK2vtKAnu4vurEaP7qeYhjroN2ccUV8b?usp=sharing)
 
 The following tutorials show how to access and explore the SeasFire cube:
 
