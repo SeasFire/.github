@@ -56,4 +56,8 @@ Models and code will be made public as soon as our studies are further evaluated
 
 A [first-of-its-kind prototype system](http://vmi903477.contaboserver.net/seasfire/ui) based on Deep Learning, has been deployed to predict sub-seasonal burned areas for Europe, using different environmental variables.
 
-![seasfire logo](/static/seasfire_logo.png) ![ESA logo](/static/esa-logo.jpg)
+<p float="left">
+	<img src="/static/seasfire_logo.png" width="200"/> 
+	<img src="/static/esa-logo.jpg" width="200"/> 
+</p>
+
