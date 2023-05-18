@@ -37,7 +37,6 @@ The following tutorials show how to access and explore the SeasFire cube:
 #### Python:
 * [Zenodo Access & Basic analytics](https://github.com/SeasFire/seasfire-datacube/blob/main/Python-Tutorials/Seasfire_datacube_tutorial.ipynb)
 * [Resample Data to Specific Spatio-Temporal Resolutions](https://github.com/SeasFire/seasfire-datacube/blob/main/Python-Tutorials/Resampling_spatio_temporaly.ipynb).
-* [Drive Access and Data exploration](https://colab.research.google.com/drive/1jK2vtKAnu4vurEaP7qeYhjroN2ccUV8b?usp=share_link#scrollTo=GjiOBE4iw9C-) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceml-org/ml4floods/blob/main/jupyterbook/content/ml4ops/HOWTO_Train_models.ipynb)
 
 #### Julia:
 
