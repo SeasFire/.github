@@ -27,6 +27,9 @@ Visualization of variables from the SeasFire Cube.
 > [Drive Link to the seasfire dataset (1 deg)](https://drive.google.com/drive/folders/1-yqhxp98YrCeg78vEeSM58r3EXO5BWwf?usp=share_link)
 >
 > After accessing the dataset link, you can add a shortcut to your personal google drive.
+
+![gdrive_shortcut](/static/gdrive_shortcut.PNG)
+
 >
 > Then you can open it in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jK2vtKAnu4vurEaP7qeYhjroN2ccUV8b?usp=sharing)
 
