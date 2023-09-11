@@ -45,7 +45,11 @@ The following tutorials show how to access and explore the SeasFire cube:
 
 ## Models
 
-Models and code will be made public as soon as our studies are further evaluated, peer-reviewed and published. Stay tuned!
+[Pi School SeasFire Explainability Challenge: Models and Code](https://github.com/PiSchool/noa-xai-for-wildfire-forecasting)
+
+[TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://orion-ai-lab.github.io/televit/) (Accepted at ICCV 2023, AI+HADR workshop)
+
+More models and code will be made public once our studies are further evaluated, peer-reviewed and published. Stay tuned!
 
 ## Papers and Talks
 
