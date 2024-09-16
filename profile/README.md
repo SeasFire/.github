@@ -36,12 +36,12 @@ Visualization of variables from the SeasFire Cube.
 The following tutorials show how to access and explore the SeasFire cube:
 
 #### Python:
-* [Zenodo Access & Basic analytics](https://github.com/SeasFire/seasfire-datacube/blob/main/Python-Tutorials/Seasfire_datacube_tutorial.ipynb)
+* [Zenodo Access & Basic analytics](https://github.com/SeasFire/seasfire-datacube/blob/main/Python-Tutorials/Seasfire_datacube_tutorial_Python.ipynb)
 * [Resample Data to Specific Spatio-Temporal Resolutions](https://github.com/SeasFire/seasfire-datacube/blob/main/Python-Tutorials/Resampling_spatio_temporaly.ipynb).
 
 #### Julia:
 
-* [Analytics with Julia](https://github.com/SeasFire/seasfire-datacube/blob/main/Julia-Tutorial/tutorial.ipynb)
+* [Analytics with Julia](https://github.com/SeasFire/seasfire-datacube/blob/main/Julia-Tutorial/SeasFire_dataset_tutorial_Julia.ipynb)
 
 ## Models
 
