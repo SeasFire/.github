@@ -43,6 +43,8 @@ The following tutorials show how to access and explore the SeasFire cube:
 
 * [Analytics with Julia](https://github.com/SeasFire/seasfire-datacube/blob/main/Julia-Tutorial/SeasFire_dataset_tutorial_Julia.ipynb)
 
+### Tutorial -  How to add new variables [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kJhjEck_CN3xraAegYZNQIbtG7L58jRe?usp=sharing)
+
 ## Models
 
 [Pi School SeasFire Explainability Challenge: Models and Code](https://github.com/PiSchool/noa-xai-for-wildfire-forecasting)
